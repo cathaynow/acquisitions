@@ -1,0 +1,13 @@
+node_modules
+npm-debug.log
+.git
+.gitignore
+Dockerfile
+Dockerfile.*
+docker-compose*.yml
+.drizzle/*-journal*.json
+logs
+.env
+.env.*
+!/.env.development
+!/.env.production
